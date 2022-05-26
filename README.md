@@ -1,5 +1,19 @@
 # Giphy Party Exemplar Project
-Exemplar code for giphy party using Fetch API
-In this lab, we will be using the Giphy API to explore making HTTP requests and dynamically adding HTML to a page.
 
-Find the core instructions for this lab on the [CodePath course portal](https://courses.codepath.org/courses/summer_internship_for_tech_excellence/unit/3#!lab)
+By the end of this lab, you will be able to...
+
+ use APIs to make HTTP requests and parse through responses using the Fetch API.
+ identify and implement asynchronous programming with async/await functions and commands.
+ create a branch using git commands and explain the purpose and importance of version control.
+ understand how pull requests track changes and implement best practices for code reviews on GitHub.
+Application Features
+Core Features
+ Allow the user to search for a GIF and when the form is submitted, display a limited number of results.
+ Allow the user to make multiple search requests with different phrases. New results will replace old existing gifs.
+ Allow the user to load more GIFs from the search
+ At least one accessible feature (i.e color-sensitive choices, alt-text for images, etc)
+Stretch Features
+ Explore additional properties of the Gif Object
+ Incorporate various buttons that use a different API endpoint.
+ Improve CSS styles with Bootstrap framework
+ Incorporate :hover styling and DOM events
