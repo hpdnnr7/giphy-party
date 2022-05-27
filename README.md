@@ -7,3 +7,5 @@
 - [x] Allow the user to load more GIFs from the search
 - [x] At least one accessible feature (i.e color-sensitive choices, alt-text for images, etc)
       Stretch Features
+      
+<img src="giphy-party.gif">
